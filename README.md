@@ -1,6 +1,6 @@
 # Hadjar-Birthday
 
-Live DEMO: https://ulikgames.github.io/Hadjar-Birthday/
+Live DEMO: https://ulikgames.github.io/Susila-Birthday2/
 
 Happy Birthday
 
